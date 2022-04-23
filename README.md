@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Welcome to my personal profile!</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPompei&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPompei&layout=compact&langs_count=10&theme=dark"/>
 </div>
  
 <div align="center">
